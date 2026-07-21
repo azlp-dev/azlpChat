@@ -1,0 +1,36 @@
+# 编译目录
+build/
+Debug/
+Release/
+out/
+.vs/
+.qtcreator/
+.codex/
+.agents/
+.agents/
+
+# Visual Studio
+.vs/
+x64/
+AZChat_G.9b2fa552/
+.git/
+.agents/
+
+node_modules/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# 可执行文件
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# 临时文件
+*.log
+
+# 配置文件
+config.ini
